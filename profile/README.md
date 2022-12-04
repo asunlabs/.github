@@ -1,6 +1,6 @@
 # :fire: AsunLabs
 
-This is a [developerasun]()'s github open source organization. Follow my tech posts on [Linkedin](https://www.linkedin.com/in/jakesung/recent-activity/shares/)
+This is a [developerasun](https://github.com/developerasun)'s github open source organization. Follow my tech posts on [Linkedin](https://www.linkedin.com/in/jakesung/recent-activity/shares/)
 
 🔊
 
