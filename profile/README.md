@@ -11,9 +11,7 @@ https://user-images.githubusercontent.com/83855174/204136071-225a7012-17f4-420d-
 - [AsunLabs](#🔥-asunlabs)
 
   - [A List of open source projects](#🔎-a-list-of-open-source-projects)
-
     - [Awesome-engineer-courses](#awesome-engineer-courses)
-    - [Awesome-blockchain-diagrams](#awesome-blockchain-diagrams)
     - [Learn-blockchain](#learn-blockchain)
 
   - [A List of developerasun's side projects](#🔎)
@@ -24,21 +22,17 @@ https://user-images.githubusercontent.com/83855174/204136071-225a7012-17f4-420d-
 
 ## :mag_right: A List of open source projects
 
-### **Awesome engineer courses**
+### **Awesome engineer courses**(active)
 
 A collection of markdowns that summarize all the software engineering materials.
 
-### **Awesome blockchain diagrams**
-
-A collection of diagrams that explains all the tech concepts needed for blockchain development.
-
-### **Learn blockchain**
+### **Learn blockchain**(active)
 
 A collection of researches(using github issues) and code blocks for blockchain development exercise.
 
 ## :mag_right: A List of side projects
 
-### **PawCon-monorepo**
+### **PawCon-monorepo**(stopped)
 
 A playground for a blockchain development. This is my `main` side project that has longest time view, largest tech changes. I get my hands dirty here before `company work`. See [here](https://docs-pawcon.netlify.app/) for more details.
 
@@ -54,7 +48,7 @@ Recommend to,
 - who want to be a blockchain developer
 - who gets their own hands dirty trying highly experimental blockchain features
 
-### **Owlly**
+### **Owlly**(active)
 
 A playground for a small-size startup `internal tool`. It started to solve a specific problem inspired by [codeshifu/sync-dotenv-slack](https://github.com/codeshifu/sync-dotenv-slack) and then broaden its domain to become BAAS(Binary as a service).
 
@@ -63,7 +57,7 @@ Using,
 - Wails
 - React/TS
 
-### **MeowRun**
+### **MeowRun**(stopped)
 
 A playground for a unity 3D game development. This project is not actively maintained anymore.
 
