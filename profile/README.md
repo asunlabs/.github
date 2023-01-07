@@ -12,6 +12,7 @@ https://user-images.githubusercontent.com/83855174/204136071-225a7012-17f4-420d-
 
   - [A List of open source projects](#🔎-a-list-of-open-source-projects)
     - [Awesome-engineer-courses](#awesome-engineer-courses)
+    - [Awesome-playlist](#awesome-playlist)
     - [Learn-blockchain](#learn-blockchain)
 
   - [A List of developerasun's side projects](#🔎)
@@ -25,6 +26,10 @@ https://user-images.githubusercontent.com/83855174/204136071-225a7012-17f4-420d-
 ### **Awesome engineer courses**(active)
 
 A collection of markdowns that summarize all the software engineering materials.
+
+### **Awesome playlist**(active)
+
+A collection of youtube links by music theme.
 
 ### **Learn blockchain**(active)
 
