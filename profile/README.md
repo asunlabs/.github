@@ -1,6 +1,6 @@
 # @asunlabs
 
-[I](https://github.com/developerasun) code some shits and archive everything here just like every other side projects do.
+[I](https://github.com/developerasun) code some shits and archive everything here just like every other side projects died.
 
 Here is a list of it.
 
@@ -11,3 +11,9 @@ Here is a list of it.
 - [MyCodeBox-monorepo](https://github.com/asunlabs/mycodebox-monorepo): CS research. Check issues tab to find some useful articles. 
 - [Setup-template](https://github.com/asunlabs/setup-template): Personal code convention snippets.
 - [Personal](https://github.com/asunlabs/personal): Personal music playist and TIL snippets.
+
+I found that most of side projects I gave a shot had not been crafted except [this one](https://github.com/asunlabs/owlly) and just fell into abyss called 'meh let's not do it.'
+
+The only side project it had fully been released with life cycle is that I made it to super tight schedule, which was two days, with very specific functionality.
+
+For then next projects, I will try to release a MVP ASAP and re-develop from there.  
